@@ -1,0 +1,7 @@
+{
+  "name": "marked-theme",
+  "version": "1.0.0",
+  "dependencies": {
+    "marked": "^0.5.2"
+  }
+}
